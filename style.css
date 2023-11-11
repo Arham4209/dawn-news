@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 30px;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.navbar li a {
+    text-align: center;
+    color: white;
+    padding-left: 7px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.dawn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-whatsapp {
+    font-size: 20px;
+}
+.navb{
+display: flex;
+justify-content: center;
+list-style: none;
+padding: 20px;
+}
+.navb li a:hover{
+    background-color: rgb(191, 190, 190);
+}
+.navb li a {
+    text-align: center;
+    color:black;
+    padding-left: 10px;
+    font-size: 12px;
+   text-decoration: none;
+}
+.heading{
+    text-align: center;
+    padding: 15px;
+    font-size: 34px;
+    font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+}
+.fa-facebook,.fa-twitter,.fa-user-circle,.fa-envelope {
+    padding: 10px;
+}
+div > p{
+    padding: 10px;
+    font-size: large;
+}
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para{
+    text-align: center;
+}
+.para p {
+    padding: 15px;
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 180px;
+    height: 30px;
+}
+textarea{
+    margin-left: 300px;
+}
+button{
+    margin-left: 300px;
+}
+.news{
+    margin-left: -50px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: red;
+
+}
+table p{
+    margin-left: 300px;
+}
+div.comment{
+   padding: 300px;
+}
+h3{
+    margin-left: 300px;
+}
